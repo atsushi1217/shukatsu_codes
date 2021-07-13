@@ -12,3 +12,9 @@
 ## GaussianProcess.ipynb
 講義の課題で作成したガウス過程の実装
 `GaussianProcessdata.txt`が存在するディレクトリで`GaussianProcess.ipynb`を実行する
+
+## eval_fam.py,eval_fam.gen.py
+研究で作成,RepeatMaskerの出力からファミリのアラインメントしようとした過程でのデータ処理を行おうとしたもの
+（実行方法についてはRepeatMaskerの出力が必要のため割愛）
+
+
