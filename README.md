@@ -20,5 +20,5 @@
 ## LT_matplotlib_1.ipynb
 研究室のプレゼン大会で,matplotlibを勉強すると称してQRコードを描画しようとしたもの（失敗）
 
-## Infection spread model.ipynb
+## Infection_spread_model.ipynb
 感染拡大のSIRモデルを実装したもの
