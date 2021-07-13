@@ -11,4 +11,4 @@
 
 ## GaussianProcess.ipynb
 講義の課題で作成したガウス過程の実装
-`GaussianProcess.txt`が存在するディレクトリで`GaussianProcess.ipynb`を実行する
+`GaussianProcessdata.txt`が存在するディレクトリで`GaussianProcess.ipynb`を実行する
